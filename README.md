@@ -46,6 +46,19 @@ Contribuidor Principal: https://www.github.com/LucasLima72
 
 ### códigos em destaque:
 
+```html
+<div>
+    <h1>Hello World</h1>
+</div>
+```
+
+```css
+div{
+    background-color: #000000;
+    color: #FFFFFF
+}
+```
+
 ```javascript
 function soma(a, b) {
     return a + b;
