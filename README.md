@@ -29,4 +29,4 @@ __melhoria 1__, _melhoria 2_
 
 ### Imagens das linguagens
 
-![Logo Python](markdown/img/python.png)
+![Logo Python](/img/python.png)
