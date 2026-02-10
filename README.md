@@ -44,7 +44,7 @@ Contribuidor Principal: https://www.github.com/LucasLima72
 
 [![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png)](https://pt.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
 
-### códigos em destaque:
+### Códigos em destaque:
 
 ```html
 <div>
@@ -53,7 +53,7 @@ Contribuidor Principal: https://www.github.com/LucasLima72
 ```
 
 ```css
-div{
+div {
     background-color: #000000;
     color: #FFFFFF
 }
@@ -64,3 +64,9 @@ function soma(a, b) {
     return a + b;
 }
 ```
+
+### Lista de Tarefas
+
+- [X] CSS do rodapé
+- [] CSS da página de clientes
+- [] CSS da página do carrinho
