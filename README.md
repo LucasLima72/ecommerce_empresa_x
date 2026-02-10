@@ -43,3 +43,11 @@ __melhoria 1__, _melhoria 2_
 Contribuidor Principal: https://www.github.com/LucasLima72
 
 [![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png)](https://pt.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
+
+### códigos em destaque:
+
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+```
