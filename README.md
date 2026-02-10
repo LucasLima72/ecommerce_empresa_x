@@ -32,4 +32,4 @@ __melhoria 1__, _melhoria 2_
 ![Logo Python](/img/python.png)
 
 #### Imagem externa
-![Logo PHP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczZI3ghLdEmTkBPVz8LQS064LMt4gz0q61Q&s)
+![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png)
