@@ -68,5 +68,5 @@ function soma(a, b) {
 ### Lista de Tarefas
 
 - [X] CSS do rodapé
-- [] CSS da página de clientes
-- [] CSS da página do carrinho
+- [ ] CSS da página de clientes
+- [ ] CSS da página do carrinho
